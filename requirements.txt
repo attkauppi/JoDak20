@@ -34,7 +34,7 @@ jupyterlab==2.0.1
 jupyterlab-git==0.9.1
 jupyterlab-heroku==0.2.1
 jupyterlab-server==1.0.7
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 mistune==0.8.4
 more-itertools==8.2.0
